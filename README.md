@@ -17,9 +17,6 @@
 <div align="center">
   <img src="https://images.app.goo.gl/GdgMHFn9dNV3ScUb9" width="200">
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
 
 <div align="center" width="100%">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8CA3BE&background=45588400&center=true&vCenter=true&random=true&width=435&lines=Futuro+desenvolvedor+de+jogos+indies.;Cursando+Inform%C3%A1tica.;Tamb%C3%A9m+sou+artista.;Seja+bem-vinde+!!" alt="Typing SVG" /></a>
