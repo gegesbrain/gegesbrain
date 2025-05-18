@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=#5B7CF0&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#5B7CF0&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <div align="center">
   <samp>
@@ -32,13 +32,12 @@
   </summary>
   
   <br>
-
+  
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gegesbrain&theme=blueberry&border_radius=25&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+  
   <br>
-  <br>
-  <br>
-  <br>
+  
   </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -87,4 +86,4 @@
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=#5B7CF0&height=300&section=footer&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#5B7CF0&height=300&section=footer&text=capsule%20render&fontSize=90" />
