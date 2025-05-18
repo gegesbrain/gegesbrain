@@ -40,11 +40,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gegesbrain&theme=blueberry&border_radius=25&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
   <br>
   <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
-  />
   <br>
   <br>
   </div>
