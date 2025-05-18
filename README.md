@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#5B7CF0&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#315691&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <div align="center">
   <samp>
@@ -15,7 +15,7 @@
 <br>
       
 <div align="center">
-  <img src="https://pin.it/TdgNPM7AM" width="200">
+  <img src="https://media3.giphy.com/media/FVbraNYNp1JzrM7DJJ/giphy.gif?cid=6c09b952hw961ng18754ydlp04yhit7kdskdnlcv6jbp9xj0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200">
 </div>
 
 <div align="center" width="100%">
@@ -86,4 +86,4 @@
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#5B7CF0&height=300&section=footer&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#315691&height=300&section=footer&text=capsule%20render&fontSize=90" />
