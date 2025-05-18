@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#5B7CF0"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=#5B7CF0&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <div align="center">
   <samp>
@@ -15,7 +15,7 @@
 <br>
       
 <div align="center">
-  <img src="https://images.app.goo.gl/GdgMHFn9dNV3ScUb9" width="200">
+  <img src="https://pin.it/TdgNPM7AM" width="200">
 </div>
 
 <div align="center" width="100%">
@@ -87,4 +87,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#5B7CF0&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=#5B7CF0&height=300&section=footer&text=capsule%20render&fontSize=90" />
