@@ -34,7 +34,6 @@
   <br>
   
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gegesbrain&theme=blueberry&border_radius=25&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
   
   <br>
   
