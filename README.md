@@ -1,88 +1,59 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:315691,100:102ec4&height=300&section=header&height=60"/>
+# 🚀 Meu Projeto Incrível
 
 <div align="center">
-  <samp>
-    <b>
-      ジャン
-    </b>
-      <br>
-      Oi oi !! Eu sou Jean Walter.
-      <br>
-  </samp>
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img src="https://media3.giphy.com/media/FVbraNYNp1JzrM7DJJ/giphy.gif?cid=6c09b952hw961ng18754ydlp04yhit7kdskdnlcv6jbp9xj0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200">
+  <h1 style="color:#4CAF50;">Bem-vindo ao Meu Projeto!</h1>
+  <p style="font-size:18px;">Este projeto é hospedado no <strong>GitHub Pages</strong> e foi feito com ❤️ usando HTML, CSS e JavaScript.</p>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Coding gif">
 </div>
 
-<div align="center" width="100%">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8CA3BE&background=45588400&center=true&vCenter=true&random=true&width=435&lines=Futuro+desenvolvedor+de+jogos+indies.;Cursando+Inform%C3%A1tica.;Tamb%C3%A9m+sou+artista.;Seja+bem-vinde+!!" alt="Typing SVG" /></a>
-</div>
+---
 
-<br>
+## 📦 Tecnologias Utilizadas
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-  <br>
-  
-<div align="center">
-  
-  <br>
-  
-  </div>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+</ul>
 
-<div align="center" style="display: inline_block"><br>
-  
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" />
-  <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-          
-</div>
+---
 
-<br>
+## 🎨 Estilo Personalizado
 
-##
+<style>
+  h1 {
+    font-family: 'Segoe UI', sans-serif;
+    text-shadow: 2px 2px #ccc;
+  }
+  ul {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 8px;
+  }
+</style>
 
-<div align="center">
-  <samp>
-    <b>
-      Me Contate:
-    </b>
-  </samp>
-  <br>
-  <br>
-  
-</div>
+---
 
-<div align="center">
+## 🧠 Interatividade
 
-<p align="center">
-      <samp>
-        ♡ <a href="https://www.instagram.com/jw.artss?igsh=MTExMmt3MTQ0cDdreg==">Instagram !!</a> ⊹
-        <a>
-        ♡
-      </samp>
-  </p>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const msg = document.createElement("p");
+    msg.textContent = "Obrigado por visitar meu projeto!";
+    msg.style.color = "#2196F3";
+    msg.style.fontWeight = "bold";
+    document.body.appendChild(msg);
+  });
+</script>
 
-</div>
+---
 
-##
+## 📍 Deploy
 
-</details>
+Você pode acessar a página aqui 👉 [Meu GitHub Pages](https://seuusuario.github.io/seurepositorio)
 
-<br>
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:315691,100:102ec4&height=300&section=header&height=60"/>
+## 📫 Contato
+
+Me siga no GitHub: [@seuusuario](https://github.com/seuusuario)
