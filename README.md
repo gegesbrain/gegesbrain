@@ -1,33 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8C2DBDFF&height=120&section=header"/>
+<h1 data-importer="text" align="left">VValter's GitHub!</h1>
 
-<p align="center">
-  
-</p>
+###
 
-<div align="center">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gegesbrain/gegesbrain/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gegesbrain/gegesbrain/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gegesbrain/gegesbrain/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=8C2DBD&background=FF00BE00&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+seja+bem-vinde+!!;Meu+nome+%C3%A9+Jean+Walter.;Sou+estudante+do+IFPB+.+.+.;.+.+.+e+amo+cria%C3%A7%C3%A3o+de+jogos!)](https://git.io/typing-svg)
+###
 
+<div data-importer="techs" align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
- 
-### Ferramentas:
-<p align="center">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-</p>
 
-### Outros Conhecimentos:
-<p align="center">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</p>
+###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8C2DBDFF&height=120&section=footer"/>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY2R4dzNtbnpiNXRyc2VvazhheHJtazRsa2J6Z3c1cWx4NWh6YW4wdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oifKB3IrjgeRZzZzrY/giphy.gif"  />
+</div>
+
+###
